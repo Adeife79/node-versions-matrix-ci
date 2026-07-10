@@ -1,0 +1,12 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "Minimal Node.js project to validate a GitHub Actions matrix build across OS and Node.js versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
