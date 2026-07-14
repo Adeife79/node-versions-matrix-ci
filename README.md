@@ -89,6 +89,6 @@ Here are the steps to take to validate matrix:
 3. 9 jobs (3 OS x 3 Node Versions) is seen running in parallel, each logging its own Node.
 
 ## Contribution
-This is basically a 4learning project, but suggestions are welcome. 
+This is basically a learning project, but suggestions are welcome. 
 You can fork the repo, create a branch, or open a pull request.
 
